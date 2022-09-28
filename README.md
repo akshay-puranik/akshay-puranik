@@ -28,7 +28,7 @@
 
 ## My Github Stats
 
-<a href="https://github.com/akshay-puranik/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshay-puranik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/akshay-puranik/github-readme-stats"><img alt="Sanjay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-puranik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/akshay-puranik/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshay-puranik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/akshay-puranik/github-readme-stats"><img alt="Akshay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-puranik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>  
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-puranik" alt="akshay-puranik" /></a> </p>
