@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h2 align="center">I live in Pune</h3>
-<h3 align="center">A Full stack developer</h3>
+<h3 align="center">I live in Pune</h3>
+<h3 align="center">I am a full stack web developer. I love solving puzzles.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-puranik" alt="akshay-puranik" /></a> </p>
 
